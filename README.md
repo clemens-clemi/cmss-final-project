@@ -1,2 +1,2 @@
 # cmss-final-project
-The python files for the final project
+The python file and plots for the final project
